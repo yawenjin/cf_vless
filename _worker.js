@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = '90cd4a77-141a-43c9-991b-08263cfe9c10';
+let userID = '76cec222-8e0e-4b51-8c3c-404b72f61c2a';
 
 let proxyIP = 'proxyip.fuck.cloudns.biz';// 小白勿动，该地址并不影响你的网速，这是给CF代理使用的。
 
